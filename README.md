@@ -4,6 +4,13 @@ El programa usuarios normales y admins, cada uno con con accesos y funciones dif
 
 _AVISO: La documentacion del proyecto continua en desarrollo y se piensa continual mejorando el programa._
 
+## Implementaciones futuras
+* **Canbio de estilo**
+* **Mejora del logIn/logUp**
+* **Implementacion de Buscador de Usuarios**
+* **Chat entre usuarios**
+* **Edicion de perfil**
+* **Implementacion de imagenes**
 
 ## Instalacion 🚀
 Documentacion de instalacion en proceso
