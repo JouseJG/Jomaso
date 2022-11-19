@@ -44,7 +44,7 @@ La unica clase diferente es la clase UsuarioLog, la cual es estatica y es usada 
 
 
 ## Autores ✒️
-* **Jose Ramon** - *Jefe Back-End* - [Jibuza](https://github.com/Jibuza)
+* **Jose** - *Jefe Back-End* - [Jibuza](https://github.com/Jibuza)
 * **Joan** - *Jefe Front-End* - [Joan2K2](https://github.com/Joan2k2)
 * **Oscar** - *Documentación* - [Osmaro21](https://github.com/Osmaro21)
 * **Miguel Angel** - *Desarrollo Web y diseño de interfaz* - [Miguel Angel](https://github.com/MiguelAngelDuqueCalatayud)
